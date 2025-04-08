@@ -35,7 +35,12 @@ Proficiencies :
  - 📚 AWS, Firebase
 </details>
 
-## 🥇 Primary technology stack
+## 🥇 Primary technology stack  
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>     
+
+
 ![C#](https://img.shields.io/badge/CSharp-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/vb.net-%23323330.svg?style=for-the-badge&logo=vb.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
