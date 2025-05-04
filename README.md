@@ -2,7 +2,7 @@
 
 
 <p>
-  Hi there! 👋 I am a developer specializing in <b>Windows application</b> and <b>Web Front-end development</b>.<br/>
+  Hi there! 👋 I am a developer specializing in <b>Web Front-end</b> and <b>Windows application development</b>.<br/>
   I have 5 years of experience in Windows application development and 1 year of experience in web development.<br/>
 While I am capable of developing for both Android and iOS, <br/>I have recently become interested in using React Native for cross-platform development.<br/><br/>
 
